@@ -1,10 +1,12 @@
 ![Rocketshoes](docs/cover.jpeg?raw=true 'Rocketshoes')
 
-# Rocketshoes
+# Learning - React Native
 
-React Native project developed at the GoStack bootcamp. Shopping cart made using Flux architecture and Redux and Redux Saga implementation.
+:us: Project part of the bootcamp Gostack from Rocketseat. Shopping cart example.
 
-Techs:
+:brazil: Projeto parte do bootcamp Gostack da Rocketseat. Exemplo de carrinho de compras.
+
+:toolbox: Used in this project:
 
 - React Native
 - React Navigation
